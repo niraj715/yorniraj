@@ -60,6 +60,7 @@ a{
     font-size: 16px;
    font-weight: 800;
     padding: 0px 25px;
+    z-index: 99999 !important;
 }
 .nav-link:hover{
     scale: 1.1;
